@@ -10,4 +10,7 @@ public class DBHelper{
 	public void hello(){
 		system.out.println("this is public");
 	}
+	public void func_oyfj(){
+		system.out.println();
+	}
 }
