@@ -13,4 +13,7 @@ public class DBHelper{
 	public void func_oyfj(){
 		system.out.println();
 	}
+	public void func_add_again(){
+		oh no;
+	}
 }
