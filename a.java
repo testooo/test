@@ -4,7 +4,7 @@ public class DBHelper{
 	}
 
 	public void delete(){
-		system.out.println("this is public");
+		system.out.println("modified by testooo");
 	}
 	
 	public void hello(){
