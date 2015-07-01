@@ -7,9 +7,9 @@ public class DBHelper{
 		system.out.println("modified by testooo");
 	}
 
-	public int func_author_add(){
-		//I found a big promblem!!!
-		return 123;
+	public int func_author_add(int a,int b){
+		int result = a + b;
+		return result;
 	}
 	
 	public void hello(){
