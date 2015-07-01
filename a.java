@@ -18,4 +18,8 @@ public class DBHelper{
 	public void func_oyfj(){
 		system.out.println();
 	}
+
+	public void func_author_new (){
+
+	}
 }
