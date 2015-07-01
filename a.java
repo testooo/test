@@ -8,7 +8,8 @@ public class DBHelper{
 	}
 
 	public int func_author_add(){
-		return 10;
+		//I found a big promblem!!!
+		return 123;
 	}
 	
 	public void hello(){
