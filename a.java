@@ -24,4 +24,7 @@ public class DBHelper{
 	private again(){
 		haahahahhahahahaahahahahahaahahahhahahahaahh
 	}
+	public void func_author_new (){
+
+	}
 }
