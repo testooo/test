@@ -16,4 +16,7 @@ public class DBHelper{
 	public void func_add_again(){
 		oh no;
 	}
+	private again(){
+		haahahahhahahahaahahahahahaahahahhahahahaahh
+	}
 }
