@@ -6,6 +6,10 @@ public class DBHelper{
 	public void delete(){
 		system.out.println("modified by testooo");
 	}
+
+	public int func_author_add(){
+		return 10;
+	}
 	
 	public void hello(){
 		system.out.println("this is public");
