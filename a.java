@@ -7,8 +7,9 @@ public class DBHelper{
 		system.out.println("this is public");
 	}
 
-	public int func_author_add(){
-		return 10;
+	public int func_author_add(int a,int b){
+		int result = a + b;
+		return result;
 	}
 	
 	public void hello(){
