@@ -13,7 +13,7 @@ public class DBHelper{
 	}
 	
 	public void hello(){
-		system.out.println("this is public");
+		system.out.println("this is hello");
 	}
 	public void func_oyfj(){
 		system.out.println();
